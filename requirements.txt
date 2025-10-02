@@ -1,0 +1,16 @@
+aiohttp
+python-telegram-bot
+openai
+shazamio
+discord.py
+yt-dlp
+youtube-search-python
+aiosqlite
+PyNaCl
+
+
+
+
+
+
+
